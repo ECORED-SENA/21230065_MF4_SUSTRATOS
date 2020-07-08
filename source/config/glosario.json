@@ -26,7 +26,7 @@
     "terms": [
       {
         "title": "Conductividad eléctrica EC:",
-        "desciption": "La conductividad es una medida de la propiedad que poseen las soluciones acuosas para conducir la corriente eléctrica. Esta propiedad depende de la presencia de iones, su concentración, movilidad, valencia y de la temperatura de la medición."
+        "desciption": "La conductividad es una medida de la propiedad que poseen las soluciones acuosas para conducir la corriente eléctrica. Esta propiedad depende de la presencia de iones, su concentración, movilidad, valencia y de la temperatura de la medición. <a href='http://www.ideam.gov.co/documents/14691/38155/Conductividad+El%C3%A9ctrica.pdf/f25e2275-39b2-4381-8a35-97c23d7e8af4' target='_blank'> http://www.ideam.gov.co/documents/14691/38155/Conductividad+El%C3%A9ctrica.pdf/f25e2275-39b2-4381-8a35-97c23d7e8af4</a>"
       },
       {
         "title": "Cultivo hidropónico",
@@ -39,7 +39,7 @@
     "terms": [
       {
         "title": "Forrajes",
-        "desciption": "Son las hierbas, cereales, pasto verde o seco que se utiliza para la alimentación de alguna especies animales."
+        "desciption": "Son las hierbas, cereales, pasto verde o seco que se utiliza para la alimentación de algunas especies animales."
       }
     ]
   },  
